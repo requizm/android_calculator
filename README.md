@@ -1,9 +1,5 @@
 ------------
 
-- `setting.grandle` dosyasından kendi sdk dizininizi belirlemeyi unutmayın.
-
-------------
-
 #### Kimsenin sormadığı ama cevaplamak istediğim sorular
 
 ------------
