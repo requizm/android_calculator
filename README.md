@@ -9,3 +9,8 @@ Uğraşmak değmeyecekti. Virgüllü işlemde eklesem, trigonometri fonksiyonlar
 
 ##### Bu projeye başlayıp bir özellik eklemek ile uğraşmak istemiyorsan, neden böyle bir şey yaptın? Hiç yapmasaydın?
 Hesap makinesi bile olsa, android programlamaya bir yerden başlamak istedim. Şuan yaptığım projenin Windows Form uygulamasından farklı olmadığının farkındayım, ileride daha iyi projeler yapmayı planlıyorum.
+
+------------
+
+##### Tasarım niye bu kadar özensiz?
+İlk soru ile aynı cevap
