@@ -1,5 +1,3 @@
-------------
-
 #### Kimsenin sormadığı ama cevaplamak istediğim sorular
 
 ------------
